@@ -20,7 +20,7 @@ body{
 
 .box{
    background-color: hsl(0, 0%, 100%);
-   max-width: 375px;
+   width: 380px;
    max-height: auto;
    border: solid 2px black;
    border-radius: 20px;
